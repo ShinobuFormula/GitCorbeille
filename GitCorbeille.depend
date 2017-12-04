@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509117947 source:c:\users\laporte damien\documents\github\gitcorbeille\main.c
+	<stdio.h>
+	<stdlib.h>
+
